@@ -18,14 +18,13 @@ https://grouplens.org/datasets/movielens/
 All three cluster model will successfully return similiar movies in same cluster, but the return result of three model are different, K-mean is the fastest model, and agglomoerative is the slowest. 
 
 # References
-https://stackoverflow.com/questions/30482071/how-to-calculate-mean-values-grouped-on-another-column-in-pandas
-
+https://stackoverflow.com/questions/30482071/how-to-calculate-mean-values-grouped-on-another-column-in-pandas 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.groupby.html 
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.combine.html
-https://numpy.org/doc/stable/reference/generated/numpy.fmax.html#numpy.fmax
-https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html#concatenating-using-append
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
-https://realpython.com/k-means-clustering-python/
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
-https://www.thetopsites.net/article/50575374.shtml
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.combine.html 
+https://numpy.org/doc/stable/reference/generated/numpy.fmax.html#numpy.fmax 
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html#concatenating-using-append 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html 
+https://realpython.com/k-means-clustering-python/ 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html 
+https://www.thetopsites.net/article/50575374.shtml 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html 
